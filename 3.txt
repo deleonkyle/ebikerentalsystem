@@ -1,0 +1,7 @@
+			SPECIFICATIONS:
+
+			MAXIMUM SPEED:	50 km/h
+			HORSEPOWER:	5.7hp / 5500rpm 
+					18nm tq @ 500 rpm
+			BATTERY:	Lithuim polymer LiPo4 72V capacity 20mAh
+			RENTING FEE PER DAY: 800PHP

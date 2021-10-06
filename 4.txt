@@ -1,0 +1,9 @@
+			SPECIFICATIONS:
+
+			MAXIMUM SPEED:	30-35 mph
+			MOTOR:  BOSCH BRUSHLESS MOTOR
+					18nm tq @ 500 rpm
+			BATTERY:	Tianneng 48v/12Ah Lead Acid
+
+			POWER:	500 kW
+			RENTING FEE PER DAY: 700PHP

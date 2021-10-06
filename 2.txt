@@ -1,0 +1,9 @@
+			SPECIFICATIONS:
+
+			MAXIMUM SPEED:	80-100 km/h
+			HORSEPOWER:	5.7hp / 5500rpm 
+					18nm tq @ 500 rpm
+			BATTERY:	Six (6) 12V lead-acid type capacity of 20mAh
+	
+			POWER:	2kW per hour
+			RENTING FEE PER DAY: 1000PHP

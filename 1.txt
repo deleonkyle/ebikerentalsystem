@@ -1,0 +1,9 @@
+			SPECIFICATIONS:
+
+			MAXIMUM SPEED:	90 km/h
+			HORSEPOWER:	5.7hp / 5500rpm 
+					18nm tq @ 500 rpm
+			BATTERY:	96V EV system w/ Two (2) 48V lithium-ion
+
+			POWER:	300 kW
+			RENTING FEE PER DAY:  950PHP
